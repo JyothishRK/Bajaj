@@ -1,0 +1,30 @@
+/* public/styles.css */
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+  }
+  
+  textarea {
+    width: 100%;
+    margin-bottom: 10px;
+  }
+  
+  select {
+    width: 200px;
+    margin-bottom: 10px;
+  }
+  
+  button {
+    margin-top: 10px;
+  }
+  
+  pre {
+    background-color: #f4f4f4;
+    padding: 10px;
+    border: 1px solid #ddd;
+  }
+  
+  #filteredResponse {
+    margin-top: 20px;
+  }
+  
